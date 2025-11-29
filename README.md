@@ -9,7 +9,7 @@ access to /mnt/base-us on the kindle
 
 Computer to transfer files from
 
-KTerm (optional)
+KTerm
 # Installation
 Download latest release
 
