@@ -14,6 +14,7 @@ KTerm
 Download latest release
 
 copy ubuntu folder (make sure no nested folders) to /mnt/base-us
+(you can also replace the ext4 with one of yours)
 # Usage
 to open type "sh /mnt/base-us/ubuntu/ubuntu.sh"
 
