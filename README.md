@@ -19,3 +19,9 @@ armhf only
 Currently I haven't figured out how to get a gui so it is only a shell.
 I also haven't shrinked the ext4
 I used chatgpt to generate ext4
+
+# License
+This project is released into the public domain under The Unlicense.
+No rights reserved.
+
+Attribution is appreciated but is not required.
